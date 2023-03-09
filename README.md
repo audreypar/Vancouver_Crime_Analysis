@@ -17,5 +17,6 @@ The goal in this project is to create a dashboard where we can display crime tre
 ## Tools and Skills 
 - SQL: SQLite  
 - Tableau  
+- Python: Utm
 - Jupyter Notebook  
-- Data Cleaning, Data Visualization, Creating Dashboard, Statistics
+- Data Cleaning, Data Visualization, Creating Dashboard, Coordinate Systems, Statistics
